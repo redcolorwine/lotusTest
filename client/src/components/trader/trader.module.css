@@ -1,0 +1,25 @@
+.trader {
+    width: 100%;
+}
+
+.trader p {
+    text-align: center;
+    border-top: 1px solid gainsboro;
+    margin-top: 40px;
+}
+
+.trader h2.timer {
+    width: 100%;
+    margin: 0;
+    color: rgb(235, 224, 224);
+    text-align: center;
+    background-color: rgb(223, 41, 106);
+}
+
+.trader h2.nontimer{
+    width: 100%;
+    margin: 0;
+    color: rgb(235, 224, 224);
+    text-align: center;
+    background-color:  rgb(238, 238, 238);
+}
